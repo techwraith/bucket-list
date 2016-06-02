@@ -15,11 +15,11 @@ A list (in no particular order) of things I'd like to achieve or experience befo
 - [ ] Skydive.
 - [ ] Live in a remote cabin for at least a month.
 - [ ] Help my wife start her boutique.
-- [x] Go to Europe
-- [x] Go to Asia
-- [ ] Go to Africa
-- [ ] Go to South America
-- [x] Go to North America
-- [ ] Go to Australia
-- [ ] Maintain a healthy muscle mass
-- [ ] Hike the Pacific Crest Trail
+- [x] Go to Europe.
+- [x] Go to Asia.
+- [ ] Go to Africa.
+- [ ] Go to South America.
+- [x] Go to North America.
+- [ ] Go to Australia.
+- [ ] Maintain a healthy muscle mass.
+- [ ] Hike the Pacific Crest Trail.
