@@ -21,3 +21,5 @@ A list (in no particular order) of things I'd like to achieve or experience befo
 - [ ] Go to South America
 - [x] Go to North America
 - [ ] Go to Australia
+- [ ] Maintain a healthy muscle mass
+- [ ] Hike the Pacific Crest Trail
