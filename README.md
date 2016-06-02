@@ -9,7 +9,6 @@ A list (in no particular order) of things I'd like to achieve or experience befo
 - [ ] Start a product based company.
 - [ ] Live for at least a year with no home.
 - [ ] Write a book.
-- [ ] Learn some AI programing.
 - [ ] Create a game that (at least some) people play.
 - [ ] Record an album.
 - [ ] Have kids.
